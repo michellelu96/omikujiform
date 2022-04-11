@@ -10,7 +10,7 @@
 </head>
 <body>
 	<h1>Send an Omikuji!</h1>
-	<div class="formbox">
+	<div>
 	<form action="omikujiForm" method="post">
 		<p>
 		<label>Pick any number from 5-25</label>
