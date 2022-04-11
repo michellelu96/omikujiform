@@ -1,0 +1,33 @@
+h1{
+	text-align: center;
+}
+
+body{
+	display:flex;
+	flex-direction:column;
+}
+
+div{
+  border: 3px solid black;
+  display: flex;
+  text-align: center;
+  flex-direction:column;
+  align-content:start;
+  margin:auto;
+}
+p{
+	text-align: center;
+}
+
+
+.textContainer{
+	height: 500px;
+	width: 500px;
+	text-align:center;
+	font-size: 30px;
+	background-color:#9fc5f8;
+}
+
+a{
+	text-align: center;
+}
